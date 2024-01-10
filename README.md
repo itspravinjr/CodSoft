@@ -7,9 +7,9 @@ Welcome to the repository for my Java Programming Internship! I'm Pravin J, and 
 <br>
 I am a passionate and dedicated Java programmer eager to expand my skills and contribute to innovative projects. My internship journey reflects my commitment to learning, collaboration, and pushing the boundaries of what I can achieve in the world of Java development. Internship Details
 
-**Internship Position**: Java Programmer Intern
-**Duration**: 5 January 2024 - 5 February 2024
-**Location**: Remote
+**Internship Position**: Java Programmer Intern<br>
+**Duration**: 5 January 2024 - 5 February 2024<br>
+**Location**: Remote<br>
 
 **Learning Highlights**
 <br>
